@@ -16,3 +16,12 @@ OBJECT MODEL
 ![image](https://user-images.githubusercontent.com/60083669/106958319-32d23100-6707-11eb-8f6c-0011f67c1e95.png)
 
 
+ACTUAL WORKING SCREENS
+
+
+
+![image](https://user-images.githubusercontent.com/60083669/106958539-82b0f800-6707-11eb-9380-6cda69835011.png)
+
+![image](https://user-images.githubusercontent.com/60083669/106958506-7462dc00-6707-11eb-93ba-a43af857b814.png)
+
+![image](https://user-images.githubusercontent.com/60083669/106958494-7036be80-6707-11eb-9832-a12549c2b92f.png)
