@@ -32,10 +32,24 @@ ACTUAL WORKING SCREENS
 
 AMAZON RECOMMENDOR SYSTEM
 
+**We proposed below following algorithms to build a robust recommender system for Amazon Electronic Products.
+
+**1. Popularity based
+**2. Collaborative filtering using Singular Value Decomposition
+**3. Collaborative filtering using KNNWithmeans (user-user similarity)**
+**4. Collaborative filtering using KNNWithmeans (item-item similarity)
+**5. Hybrid Recommendation System
+
+**The system using Popularity based recommendation model that works on principle of popularity that identifies the products that are popular among users. This will give the users recommendation of products that are in trend, high in demand and are bought by users.**
+
+
 ![image](https://user-images.githubusercontent.com/60083669/106968141-4a64e600-6716-11eb-83c5-b71e1ca18800.png)
 
 
 SVD COLLABORATIVE FILTERING PROCESS
+
+**Singular value decomposition (SVD) is a collaborative filtering method. The aim for the code implementation is to provide users with Electronic Product recommendation from the latent features of item-user matrices.**
+
 
 <img width="1240" alt="SVD_Collaborative Filtering" src="https://user-images.githubusercontent.com/60083669/106972852-b26bfa00-671f-11eb-8290-381855b3afb1.png">
 
@@ -47,3 +61,9 @@ SVD COLLABORATIVE FILTERING PROCESS
 
 
 <img width="1300" alt="SVD_ACCURACY" src="https://user-images.githubusercontent.com/60083669/106973251-843aea00-6720-11eb-87af-7ac778816078.png">
+
+**##CONCLUSION:-
+              
+**We achieved to propound top 5 suggestions to users using all the above-mentioned algorithms and in the event reaching to a goal of reducing the painstaking task for our customers to remember what they like and which products they prefer. 
+Here, Recommender systems open new opportunities of retrieving personalized information on the Internet. It also helps to alleviate the problem of information overload which is a very common phenomenon with information retrieval systems and enables users to have access to products and services which are not readily available to users on the system. Various learning algorithms used in generating recommendation models and evaluation metrics used in measuring the quality and performance of recommendation algorithms were discussed**
+
