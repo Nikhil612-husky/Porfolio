@@ -34,3 +34,11 @@ AMAZON RECOMMENDOR SYSTEM
 
 ![image](https://user-images.githubusercontent.com/60083669/106968141-4a64e600-6716-11eb-83c5-b71e1ca18800.png)
 
+
+SVD COLLABORATIVE FILTERING PROCESS
+
+![image](https://user-images.githubusercontent.com/60083669/106972210-62d8fe80-671e-11eb-945d-3461f70f2acb.png)
+<img width="1240" alt="SVD_Collaborative Filtering" src="https://user-images.githubusercontent.com/60083669/106972852-b26bfa00-671f-11eb-8290-381855b3afb1.png">
+<img width="1303" alt="SVD_Collaborative Filtering_DataCapture" src="https://user-images.githubusercontent.com/60083669/106973125-38884080-6720-11eb-8438-6c4fe6df15ee.png">
+<img width="1300" alt="SVD_TOP 5_RECOMMENDATIONS" src="https://user-images.githubusercontent.com/60083669/106973242-80a76300-6720-11eb-82c1-d170a8b25f03.png">
+<img width="1300" alt="SVD_ACCURACY" src="https://user-images.githubusercontent.com/60083669/106973251-843aea00-6720-11eb-87af-7ac778816078.png">
