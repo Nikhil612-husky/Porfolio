@@ -32,3 +32,5 @@ ACTUAL WORKING SCREENS
 
 AMAZON RECOMMENDOR SYSTEM
 
+![image](https://user-images.githubusercontent.com/60083669/106968141-4a64e600-6716-11eb-83c5-b71e1ca18800.png)
+
